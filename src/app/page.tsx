@@ -653,7 +653,7 @@ export default function CVPage() {
                         <p className="mt-3 text-sm leading-relaxed text-zinc-700 sm:text-base">
                             <span className="font-semibold">Bachelor Degree of Computer Science</span>
                             <br />
-                            University Computer Indonesia (2010 - 2015)
+                            Indonesian Computer University (2010 - 2015)
                         </p>
                     </article>
 
